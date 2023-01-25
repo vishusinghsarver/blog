@@ -24,5 +24,10 @@ class CommentsController < ApplicationController
         status == 'archived'
       end
     end
+     
+
+
+
+
     
   end
